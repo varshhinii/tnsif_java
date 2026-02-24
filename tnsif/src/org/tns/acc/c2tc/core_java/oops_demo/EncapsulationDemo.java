@@ -1,8 +1,4 @@
-package OopsDemo;
-
-
-
-
+package org.tnsif.acc.c2tc.oopsdemo;
 
 class Human1
 {
@@ -30,26 +26,22 @@ class Human1
 
 }
 
-public class Encapsulation {
+public class EncapsulationDemo {
 
 	public static void main(String[] args) {
 		Human1 obj=new Human1();
-	
+		
 		obj.setAge(12);
 		obj.setName("Neha");
 		System.out.println(obj.getAge());
 		System.out.println(obj.getname());
+		System.out.println();
 		
 		obj.setAge(17);
 		obj.setName("Vishu");
 		System.out.println(obj.getAge());
 		System.out.println(obj.getname());
-	
+
 	}
 
 }
-
-
-
-
-

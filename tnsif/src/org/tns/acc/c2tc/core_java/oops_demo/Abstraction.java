@@ -1,28 +1,23 @@
-package OopsDemo;
+package org.tnsif.acc.c2tc.oopsdemo;
 
-public class Abstraction {
+public class AbstractionDemo {
 
-
-
-
-
-
-
-    public static void main(String[] args) {
-        MaheshDemo mahesh=new SureshDemo();
+	public static void main(String[] args) {
+		MaheshDemo mahesh = new SureshDemo();
         mahesh.calling();
         mahesh.AIIntegration();
         mahesh.SatelliteConn();
         mahesh.HealthMonitoring();
 
-    }
+	}
 
 }
+
 abstract class MaheshDemo   //2024 abstract class
 {
     public void calling()   //concrete method
     {
-        System.out.println("calling");
+        System.out.println("Calling");
     }
     public abstract void AIIntegration();  //abstract method
     public abstract void SatelliteConn();
@@ -62,6 +57,3 @@ class SureshDemo extends RameshDemo  //2026
     }
     
 }
-
-
-
