@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.collections;
+package org.tnsif.acc.c2tc.core_java.collections;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

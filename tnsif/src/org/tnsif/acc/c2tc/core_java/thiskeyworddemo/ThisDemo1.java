@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.thiskeyworddemo;
+package org.tnsif.acc.c2tc.core_java.thiskeyworddemo;
 
 class Person{
 	private String name;
