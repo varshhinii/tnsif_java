@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.core_java.collections;
+package org.tns.acc.c2tc.core_java.collections;
 
 import java.util.LinkedHashSet;
 

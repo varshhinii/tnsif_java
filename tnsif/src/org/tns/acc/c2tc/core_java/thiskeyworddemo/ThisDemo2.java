@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.core_java.thiskeyworddemo;
+package org.tns.acc.c2tc.core_java.thiskeyworddemo;
 
 class Product {
     double price;

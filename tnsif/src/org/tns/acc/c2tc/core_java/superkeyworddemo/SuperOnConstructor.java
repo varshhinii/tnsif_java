@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.core_java.superkeyworddemo;
+package org.tns.acc.c2tc.core_java.superkeyworddemo;
 
 class Animal7
 {
